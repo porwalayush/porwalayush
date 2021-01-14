@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hey 👋, I'm Ayush
 
-<!--
-**porwalayush/porwalayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web development | Competitive Programming
+
+
+### My Stats
+
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=porwalayush&count_private=true&show_icons=true&theme=radical)
+
+
+### My Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalayush&show_icons=true&theme=radical)
+
+
+### Contact
+
+<a href="https://www.linkedin.com/in/ayush-porwal-85aa86175">
+  <img align="left" alt="Ayush Porwal|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/ayushporwal3843">
+  <img align="left" alt="Ayush Porwal| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:ayushporwal3843@gmail.com">
+  <img align="left" alt="Ayush Porwal| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=porwalayush.porwalayush) 
