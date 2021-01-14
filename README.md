@@ -2,7 +2,7 @@
 
 ### About me :raising_hand_man:
 
-I am a IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziabad. I am a competitive programmer and I work on web development projects.
+I am an IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziabad. I am a competitive programmer and I work on web development projects.
 
 
 ### Technical Skills
