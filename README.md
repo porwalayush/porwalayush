@@ -13,6 +13,8 @@ I am an IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziab
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  <br />
 
+<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
+
 ### My Interests
 
 Web development | Competitive Programming
