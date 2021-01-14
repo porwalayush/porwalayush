@@ -28,6 +28,6 @@ Web development | Competitive Programming
   <img align="left" alt="Ayush Porwal| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br><br><br>
+<br><br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=porwalayush.porwalayush) 
