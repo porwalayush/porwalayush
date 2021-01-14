@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ayush
 
-### About me :man:
+### About me :raising_hand_man:
 
 I am a IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziabad. I am a competitive programmer and I work on web development projects.
 
