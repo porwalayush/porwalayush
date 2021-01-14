@@ -17,7 +17,7 @@ I am a IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziaba
 
 Web development | Competitive Programming
 
-
+<hr>
 <p align=center>
   <a href="#">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=porwalayush&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true">
