@@ -17,16 +17,8 @@ I am an IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziab
 
 Web development | Competitive Programming
 
-
-### My Stats
-
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=porwalayush&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true)
-
-
-### My Most used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalayush&show_icons=true&theme=radical)
-
+### My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalayush&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.vercel.app/api?username=porwalayush&show_icons=true&include_all_commits=true&theme=radical)]()
 
 ### Contact
 
@@ -39,7 +31,3 @@ Web development | Competitive Programming
 <a href="mailto:ayushporwal3843@gmail.com">
   <img align="left" alt="Ayush Porwal| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-<br><br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=porwalayush.porwalayush) 
