@@ -17,18 +17,17 @@ I am a IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziaba
 
 Web development | Competitive Programming
 
-<br>
-<p align=center>
-  <a href="#">
-    <img height=175 width=300  src="https://github-readme-stats.vercel.app/api?username=porwalayush&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true">
-  </a>
-  <a href="#">
-  <img height=175 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=porwalayush&show_icons=true&theme=radical" />
-  </a>
-</p>
+
+### My Stats
+
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=porwalayush&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true)
 
 
-<br> 
+### My Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalayush&show_icons=true&theme=radical)
+
+
 ### Contact
 
 <a href="https://www.linkedin.com/in/ayush-porwal-85aa86175">
