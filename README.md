@@ -8,6 +8,10 @@
   <img  alt="Ayush Porwal| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
   &nbsp;&nbsp;
+  <a href="https://www.stopstalk.com/user/profile/porwal_ayush18">
+  <img  alt="Ayush Porwal| Twitter" width="22px" src="https://github.com/stopstalk/media-resources/blob/master/stopstalk-large-black.svg" />
+</a>
+  &nbsp;&nbsp;
 <a href="mailto:ayushporwal3843@gmail.com">
   <img  alt="Ayush Porwal| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
