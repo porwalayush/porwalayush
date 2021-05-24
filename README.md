@@ -17,7 +17,7 @@
 
 I am an IT undergraduate student at Ajay Kumar Garg Engineering College, Ghaziabad. I am a competitive programmer and I work on web development projects.
 
-<img align="right" src="https://github.com/porwalayush/porwalayush/blob/main/coding-freak.gif" width="28%"/>
+<img align="right" src="https://github.com/porwalayush/porwalayush/blob/main/coding-freak.gif" width="30%"/>
 
 ### Technical Skills
 
